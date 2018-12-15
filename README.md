@@ -1,7 +1,6 @@
 # Source Code of Design IoT
 
-
-##目录及结构
+## 目录及结构
 
 目录       | 功能                             | 技术栈
 ----------|----------------------------------|------
@@ -16,7 +15,7 @@ dashboard | 仪表盘相关代码                      | Ruby、CoffeeScript
 
 APP 相关代码下载 [http://github.com/designiot/app](http://github.com/designiot/app)
 
-##License
+## License
 
 © 2015 [Phodal Huang][phodal]. This code is distributed under the MIT license.
 
